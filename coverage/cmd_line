@@ -1,0 +1,1 @@
+genhtml total.info -o coverage
